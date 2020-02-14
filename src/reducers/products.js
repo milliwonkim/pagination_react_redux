@@ -42,7 +42,7 @@ const initialState = [
   { id: 37, name: "Nokia 5.1 Plus 3GB/32GB" },
   { id: 38, name: "Nokia 7 Plus 2 Sim 4GB/64GB" },
   { id: 39, name: "Nokia 6.1 Plus 4GB/64GB Xanh" },
-  { id: 40, name: "Nokia X6 tai thỏ 2018 64GB Ram 4GB" },
+  { id: 40, name: "Nokia X6 2018 64GB Ram 4GB" },
   { id: 41, name: "Xiaomi Redmi Note 5 Pro 32GB Ram 3GB" },
   { id: 42, name: "Xiaomi Mi 8 Lite 4GB/64GB Xám" },
   { id: 43, name: "Xiaomi Mi A2 Lite 4GB/64GB" },
