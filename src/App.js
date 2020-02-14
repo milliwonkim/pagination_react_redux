@@ -70,7 +70,6 @@ class App extends Component {
     } = this.state;
     var rowsPerPage = [];
 
-    // Tìm kiếm
     if (keyword) {
       products = products.filter(product => {
         return product.name.toLowerCase().indexOf(keyword) !== -1;
