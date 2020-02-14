@@ -18,7 +18,7 @@ const initialState = [
   { id: 13, name: "Nokia 5 16GB" },
   { id: 14, name: "Samsung Galaxy S8 Plus G955F" },
   { id: 15, name: "Samsung Galaxy J8 3GB/32GB" },
-  { id: 16, name: "Nokia X5 tai thỏ 2018 32GB Ram 3GB" },
+  { id: 16, name: "Nokia X5 2018 32GB Ram 3GB" },
   { id: 17, name: "Sony Xperia XZ Dual SIM 3GB/64GB" },
   { id: 18, name: "Sony Xperia L2 (H4331)" },
   { id: 19, name: "Sony Xperia XA3 Ultra" },
