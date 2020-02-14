@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pagination_react_redux/static/css/main.e49db2fc.chunk.css",
+    "main.js": "/pagination_react_redux/static/js/main.5990713e.chunk.js",
+    "main.js.map": "/pagination_react_redux/static/js/main.5990713e.chunk.js.map",
+    "runtime-main.js": "/pagination_react_redux/static/js/runtime-main.a6c46b53.js",
+    "runtime-main.js.map": "/pagination_react_redux/static/js/runtime-main.a6c46b53.js.map",
+    "static/js/2.68360d74.chunk.js": "/pagination_react_redux/static/js/2.68360d74.chunk.js",
+    "static/js/2.68360d74.chunk.js.map": "/pagination_react_redux/static/js/2.68360d74.chunk.js.map",
+    "index.html": "/pagination_react_redux/index.html",
+    "precache-manifest.d60c3841c0802a34ba30d5ce6bd69df2.js": "/pagination_react_redux/precache-manifest.d60c3841c0802a34ba30d5ce6bd69df2.js",
+    "service-worker.js": "/pagination_react_redux/service-worker.js",
+    "static/css/main.e49db2fc.chunk.css.map": "/pagination_react_redux/static/css/main.e49db2fc.chunk.css.map",
+    "static/js/2.68360d74.chunk.js.LICENSE.txt": "/pagination_react_redux/static/js/2.68360d74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6c46b53.js",
+    "static/js/2.68360d74.chunk.js",
+    "static/css/main.e49db2fc.chunk.css",
+    "static/js/main.5990713e.chunk.js"
+  ]
+}
